@@ -4,8 +4,6 @@
 
 This Vue package offers an easy and intuitive way of displaying Semantic-UI styled grids with data coming either from the client or from the server.
 
-Note: As of version 0.5.0 the `row-click` event sends along an object containing the row and the mouse event.
-
 - [Dependencies](#dependencies)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -463,5 +461,6 @@ Options are set in three layers, where the more particular overrides the more ge
 
 [EXPLORE OPTIONS](//jsfiddle.net/matfish2/823jzuzc/embedded/result/)
 
+> Note: The `row-click` event sends along an object containing the row and the mouse event.
 -----------------
 CSS Note: to center the pagination apply `text-align:center` to the wrapping element
