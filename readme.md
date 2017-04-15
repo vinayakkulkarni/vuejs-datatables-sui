@@ -29,7 +29,7 @@ Note: As of version 0.5.0 the `row-click` event sends along an object containing
 ## Compatibility
 
 * Vuex (>=2.0)
-* Bootstrap (CSS)
+* Semantic-UI (CSS)
 
 # Installation
 
