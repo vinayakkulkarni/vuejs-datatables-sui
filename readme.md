@@ -1,6 +1,6 @@
 # Vue Tables 2 for Semantic-UI
 
-[![npm version](https://badge.fury.io/js/vue-tables-2.svg)](https://badge.fury.io/js/vue-tables-2)
+[![npm version](https://badge.fury.io/js/vuejs-datatables-sui.svg)](https://badge.fury.io/js/vuejs-datatables-sui)
 
 This Vue package offers an easy and intuitive way of displaying Semantic-UI styled grids with data coming either from the client or from the server.
 
