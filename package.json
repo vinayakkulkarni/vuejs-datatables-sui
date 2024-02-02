@@ -32,7 +32,7 @@
   "main": "compiled/index.js",
   "tonicExampleFilename": "tonic-example.js",
   "devDependencies": {
-    "daterangepicker": "0.0.3",
+    "daterangepicker": "3.1.0",
     "jasmine-core": "^2.3.4",
     "jquery": "^2.1.4",
     "semantic-ui": "^2.2.7",
