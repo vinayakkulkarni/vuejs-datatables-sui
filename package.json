@@ -40,7 +40,7 @@
     "karma-browserify": "^4.4.1",
     "karma-chrome-launcher": "^0.2.1",
     "karma-firefox-launcher": "^0.1.7",
-    "karma-jasmine": "^0.3.6",
+    "karma-jasmine": "^5.0.0",
     "babel-helper-vue-jsx-merge-props": "^2.0.1",
     "babel-plugin-syntax-jsx": "^6.13.0",
     "babel-plugin-transform-vue-jsx": "^3.1.0"
